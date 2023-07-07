@@ -11,6 +11,6 @@ SO THAT our own site is optimized for search engines
 I cleaned the source code by condensing the CSS, added ALT to images for accessibility, transformed the HTML into semantic HTML, and added a title.
 
 
-https://lukeinco.github.io/horiseon-social-solutions/#search-engine-optimization
+https://lukeinco.github.io/horiseon-social-solutions/
 
 ![Alt text](./assets/images/image.png)
